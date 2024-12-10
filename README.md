@@ -15,8 +15,8 @@ Simply because GitHub is not a place to store hundreds of megabytes of images. I
 https://drive.google.com/drive/folders/1PXluDr_rqXl40HN0eP50BU7HGm_IpRvK?usp=sharing
 
 # What To Do and What NOT To Do
-- [x] Look at the plots, think that they will get your money doubled, gamble based on misinterpreted information out of them.
-- [ ] Look at the plots, realise the differences between cases, see this as a fun project about statistics, NOT gamble your money.
+- [ ] Look at the plots, think that they will get your money doubled, gamble based on misinterpreted information out of them.
+- [x] Look at the plots, realise the differences between cases, see this as a fun project about statistics, NOT gamble your money.
 
 # How Can You Reach Me for Questions and/or Project Ideas?
 Basically, send an email to me: tasova940@gmail.com
